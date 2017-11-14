@@ -1,8 +1,8 @@
 # git
 Lista de principais comandos Git
 
-# teste
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# Comandos de configuração
+| Comando                                | Descrição                   |
+| -------------------------------------- | --------------------------- |
+| git config --global user.name "NOME"   | Registra o seu nome no git  |
+| git config --global user.email "EMAIL" | Registra o seu email no git |
